@@ -1,0 +1,5 @@
+Dehradun 5.78 308.20
+Delhi 190 1484
+Mumbai 184 603
+Shimla 1.69 35
+Patna 16.8 250
